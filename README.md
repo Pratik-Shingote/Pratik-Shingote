@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratik-Shingote
 - 👀 I’m interested in Seeking an entry level job position in reputed organization 
-- 🌱 I’m currently learning Post Graduate Certification in Selenium WebDriver with Java + Frameworks
+- 🌱 Successfully Completed Post Graduate Certification in Selenium WebDriver with Java + Frameworks
 - 📫 How to reach me pratik.shingote@gmail.com
 
 <!---
